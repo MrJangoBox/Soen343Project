@@ -1,0 +1,25 @@
+*.class
+bin/
+classes/
+build/
+jar/
+release/
+.externalToolBuilders
+.metadata/
+.settings/
+glob:src/savedGame
+gameTypes
+pieceTypes
+savedGame
+savedGames/
+ACN File
+completedGames/
+gamesInProgress/
+variants/
+
+.gradle/
+
+# Package Files #
+*.war
+*.ear
+/*.DS_Store
